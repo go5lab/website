@@ -26,6 +26,11 @@ const Page = () => {
                 </div>
                 <div></div>
                 <div className={styles.detail}>
+                    <Link href="https://sarari.go5.run/">
+                    <div className={styles.link}>
+                    <a>💸sarari</a>
+                    </div>
+                    </Link>
                     <Link href="https://buzzcore.pro/">
                     <div className={styles.link}>
                     <a>💣BuzzCore</a>
