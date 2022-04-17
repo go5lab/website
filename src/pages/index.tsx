@@ -31,16 +31,6 @@ const Page = () => {
                     <a>💸sarari</a>
                     </div>
                     </Link>
-                    <Link href="https://buzzcore.pro/">
-                    <div className={styles.link}>
-                    <a>💣BuzzCore</a>
-                    </div>
-                    </Link>
-                    <Link href="https://tweet.go5.run/">
-                    <div className={styles.link}>
-                    <a>🐤#TweetMaker</a>
-                    </div>
-                    </Link>
                     <Link href="https://status.go5.run/">
                     <div className={styles.link}>
                     <a>👣MyStatus</a>
